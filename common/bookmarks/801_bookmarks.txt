@@ -1,0 +1,7 @@
+# NEED TO ADD CHARACTERS: Definitely Charlemagne, possibly Al-Hakam I (Emirate of Cordoba), or the young Constantine VI (Byzantine Empire)?
+bm_801_age_of_the_greats = {    # --------------------------------------------------------------------
+	start_date = 801.1.1 # Date shortly after Charlemagne's coronation.
+	is_playable = yes
+	
+	
+}

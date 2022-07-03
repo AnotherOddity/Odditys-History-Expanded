@@ -1,0 +1,7 @@
+# NEED TO ADD CHARACTERS: Definitely Leo III, also likely Hisham ibn Abd al-Malik
+bm_726_first_iconoclasm = {     # --------------------------------------------------------------------
+	start_date = 726.1.1 # Date in Leo III "the Isaurian"'s reign
+	is_playable = yes
+	
+	
+}
